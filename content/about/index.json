@@ -1,8 +1,8 @@
 {
-  "index": {
-    "about: {
-      "type": "map",
-      "map": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/index.json"
-    }
-  }
+	"index": {
+		"about": {
+			"type": "map",
+			"map": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/index.json"
+		}
+	}
 }
