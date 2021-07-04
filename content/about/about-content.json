@@ -1,0 +1,121 @@
+{
+	"waywework": {
+		"id": "waywework",
+		"type": "article",
+		"body": "",
+		"path": "about/the_way_we_work.md",
+		"title": "The Way We Work",
+		"subTitle": "An Introduction to the CMTr.io Mindset",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	},
+	"thisisus": {
+		"id": "thisisus",
+		"type": "article",
+		"body": "",
+		"path": "about/this_is_us.md",
+		"title": "This is Us",
+		"subTitle": "",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	},
+	"whoweare": {
+		"id": "whoweare",
+		"type": "article",
+		"body": "",
+		"path": "about/who_we_are.md",
+		"title": "Who we are",
+		"subTitle": "",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	},
+	"ourmission": {
+		"id": "ourmission",
+		"type": "article",
+		"body": "",
+		"path": "about/our_mission.md",
+		"title": "Our Mission",
+		"subTitle": "",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	},
+	"ourvalues": {
+		"id": "ourvalues",
+		"type": "article",
+		"body": "",
+		"path": "about/our_values.md",
+		"title": "Our Values",
+		"subTitle": "",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	},
+	"ourvision": {
+		"id": "ourvision",
+		"type": "article",
+		"body": "",
+		"path": "about/our_vision.md",
+		"title": "Our Vision",
+		"subTitle": "",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	},
+	"ourstory": {
+		"id": "ourstory",
+		"type": "article",
+		"body": "",
+		"path": "about/our_story.md",
+		"title": "Our Story",
+		"subTitle": "",
+		"authors": [],
+		"tags": [],
+		"images": {
+			"head": {
+				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+				"alt": "Sunset in Solitude",
+				"paragraph": "Strategy is about reflection"
+			}
+		}
+	}
+}

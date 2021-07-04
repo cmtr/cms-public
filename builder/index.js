@@ -48,6 +48,7 @@ const traverseThree = (func) => async (obj) => Promise
 const build = fp.flow(
 	getJson,
 	resolve(traverseThree(getSubtree)),
+//	resolve(async (data) => _.get(data, 'about.team.team')),
 	resolve(console.log)
 );
 

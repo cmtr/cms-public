@@ -1,0 +1,34 @@
+{
+	"image": {
+		"src": "/assets/img/about.jpg",
+		"alt": "CMTr",
+		"video": "https://www.youtube.com/watch?v=jDDaplaOz7Q"
+	},
+	"text": {
+		"title": "Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.",
+		"body": "### Who are we?\n#### Independent\nBy being independent we are not bound to any limitations in the advice and support we provide. We want to be free to offer our clients the best advice for their needs and their context.\n#### Generalis\nA generalist, with knowledge on a broad range of issues, can see deeper inside the interconnectedness and find solutions that a specialist might not be able to. Companies often have the specialist that know their busienss best. All the different departments within a business do connect with each other. A generalist can help see this bigger picture and come up with ideas and solutions that benefit the business as a whole.\n#### Advisory Service\nOur *will to power* is less than the our *will to meaning*. We find meaning in helping others help themselves. The need for a consultant should be temporary and we strive to enable our clients to own the path to success.",
+		"path": "about/company_intro.md"
+	},
+	"counters": [
+		 {
+		 	"logoClass": "bi bi-emoji-smile",
+		 	"title": "Happy Clients",
+		 	"count": 120
+		 },
+			 {
+		 	"logoClass": "bi bi-journal-richtext",
+		 	"title": "Projects",
+		 	"count": 85
+		 },
+			 {
+		 	"logoClass": "bi bi-clock",
+		 	"title": "Years of experience",
+		 	"count": 35
+		 },
+			 {
+		 	"logoClass": "bi bi-emoji-smile",
+		 	"title": "Awards",
+		 	"count": 48
+		 }
+	]	
+}

@@ -1,0 +1,38 @@
+[
+	{
+		"logoClass":"ri-calendar-check-line",
+		"image": {
+			"src": "/assets/img/stock/sean-stratton-ObpCE_X3j6U-unsplash.jpg",
+			"src1": "/assets/img/about-boxes-2.jpg",
+			"alt": "values"
+		},
+		"title": "Our Values",
+		"paragraph": "",
+		"href": "#",
+		"path": "about/values.md"
+	},
+	{
+		"logoClass":"ri-brush-4-line",
+		"image": {
+			"src": "/assets/img/stock/kalen-emsley-7bwQXzbF6KE-unsplash.jpg",
+			"src1": "/assets/img/about-boxes-1.jpg",
+			"alt": "mission"
+		},
+		"title": "Our Mission",
+		"paragraph": "",
+		"href": "#",
+		"path": "about/mission.md"
+	},
+	{
+		"logoClass":"ri-movie-2-line",
+		"image": {
+			"src": "/assets/img/stock/matt-noble-BpTMNN9JSmQ-unsplash.jpg",
+			"src1": "/assets/img/about-boxes-3.jpg",
+			"alt": "vision"
+		},
+		"title": "Our Vision",
+		"paragraph": "",
+		"href": "#",
+		"path": "about/vision.md"
+	}				
+]
