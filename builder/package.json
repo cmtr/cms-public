@@ -1,0 +1,30 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "description": "data tree builder for github powered cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmtr/cms-public.git"
+  },
+  "keywords": [
+    "cms",
+    "tree",
+    "builder",
+    "data",
+    "structures"
+  ],
+  "author": "Harald Blikø",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmtr/cms-public/issues"
+  },
+  "homepage": "https://github.com/cmtr/cms-public#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}
