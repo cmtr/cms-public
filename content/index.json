@@ -13,6 +13,10 @@
 			"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/publications/index.json"
 		}
 	},
+	"navigation": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/navigation/index.json"
+	},
 	"images": {
 		"type": "map",
 		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/images/index.json"

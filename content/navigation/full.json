@@ -1,0 +1,157 @@
+{
+	"navbar": {
+		"logo": {
+			"title": "CMTr.io",
+			"href": "/"
+		},
+		"navbar": [
+			{
+				"type": "link",
+				"key": "home",
+				"title": "Home",
+				"href": "/"
+			},
+			{
+				"type": "link",
+				"key": "services",
+				"title": "Services",
+				"href": "/services"
+			},
+			{
+				"type": "link",
+				"key": "portfolio",
+				"title": "Portfolio",
+				"href": "/portfolio"
+			},
+			{
+				"type": "link",
+				"key": "publication",
+				"title": "publications",
+				"href": "/publication"
+			},
+			{
+				"type": "dropdown",
+				"key": "about",
+				"title": "About",
+				"href": "/about",
+				"items": [
+					{
+						"type": "link",
+						"title": "This Is Us",
+						"href": "about/thisisus"
+					},
+					{
+						"type": "link",
+						"title": "The Way We Work",
+						"href": "about/waywework"
+					},
+					{
+						"type": "dropdown",
+						"title": "Values, Mission & Vision",
+						"href": "/about#about-boxes",
+						"items": [
+							{
+								"type": "link",
+								"title": "Our Values",
+								"href": "/about/ourvalues"
+							},
+							{
+								"type": "link",
+								"title": "Our Mission",
+								"href": "/about/ourmission"
+							},
+							{
+								"type": "link",
+								"title": "Our Vision",
+								"href": "/about/ourvision"
+							}
+						]
+					},
+					{
+						"type": "link",
+						"title": "Our Story",
+						"href": "/about/ourstory"
+					},
+					{
+						"type": "link",
+						"title": "Who We Are",
+						"href": "/about/whoweare"
+					}
+				]
+			},
+			{
+				"type": "scrollto",
+				"key": "contact",
+				"title": "Contact",
+				"href": "#contact"
+			},
+			{
+				"type": "scrollto",
+				"key": "getstarted",
+				"title": "Get Started",
+				"href": "#contact",
+				"class": "getstarted"
+			}
+		]
+	},
+	"usefullLinks": {
+		"title": "Usefull Links",
+		"items": [
+			{
+				"key": "home",
+				"title": "Home",
+				"href": "/"
+			},
+			{
+				"key": "about",
+				"title": "About Us",
+				"href": "/about"
+			},
+			{
+				"key": "services",
+				"title": "Services",
+				"href": "/services"
+			},
+			{
+				"key": "portfolio",
+				"title": "Portfolio",
+				"href": "/portfolio"
+			},
+			{
+				"key": "publication",
+				"title": "Publication",
+				"href": "/publication"
+			}
+		]
+	},
+	"ourServices": {
+		"title": "Our Services",
+		"items": [
+			{
+				"key": "pm",
+				"title": "Project, Portfolio & Program Management",
+				"href": "#"
+			},
+			{
+				"key": "productmanagement",
+				"title": "Product Management",
+				"href": "#"
+			},
+			{
+				"key": "marketing",
+				"title": "Analysis & Research",
+				"href": "#"
+			},
+			{
+				"key": "analysis",
+				"title": "User Analysis & Research",
+				"href": "#"
+			},
+			{
+				"key": "coaching",
+				"title": "Facilitation & Coaching",
+				"href": "#"
+			}
+		]
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"navbar": {
+		"logo": {
+			"title": "CMTr.io",
+			"href": "/"
+		},
+		"navbar": [
+			{
+				"type": "scrollto",
+				"key": "home",
+				"title": "Home",
+				"href": "#hero"
+			},
+			{
+				"type": "link",
+				"key": "about",
+				"title": "About",
+				"href": "#about"
+			},
+			{
+				"type": "link",
+				"key": "services",
+				"title": "Services",
+				"href": "#features"
+			},
+			{
+				"type": "link",
+				"key": "team",
+				"title": "Team",
+				"href": "#team"
+			},
+			{
+				"type": "scrollto",
+				"key": "contact",
+				"title": "Contact",
+				"href": "#contact"
+			},
+			{
+				"type": "scrollto",
+				"key": "getstarted",
+				"title": "Get Started",
+				"href": "#contact",
+				"class": "getstarted"
+			}
+		]
+	},
+	"usefullLinks": {
+		"title": "Usefull Links",
+		"items": [
+			{
+				"key": "home",
+				"title": "Home",
+				"href": "#hero"
+			},
+			{
+				"key": "about",
+				"title": "About Us",
+				"href": "#about"
+			},
+			{
+				"key": "services",
+				"title": "Services",
+				"href": "#features"
+			},
+			{
+				"key": "team",
+				"title": "Our Team",
+				"href": "#team"
+			}
+		]
+	},
+	"ourServices": {
+		"title": "Our Services",
+		"items": [
+			{
+				"key": "Management",
+				"title": "Project & Product Management",
+				"href": "#features"
+			},
+			{
+				"key": "analysis",
+				"title": "Analysis & Research",
+				"href": "#features"
+			},
+			{
+				"key": "facilitaion",
+				"title": "Facilitation & Coaching",
+				"href": "#features"
+			},
+			{
+				"key": "design",
+				"title": "UX / UI Design",
+				"href": "#features"
+			}
+		]
+	}
+}
