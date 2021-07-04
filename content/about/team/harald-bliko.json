@@ -1,0 +1,15 @@
+{
+	"name": "Harald Blikø",
+	"title": "Product, Project & Technical Advisor",
+	"image": {
+		"src": "/assets/img/team/harald-bliko-001.jpg",
+		"alt": "team member"
+	}
+	,"social": [
+		{
+			"key": "linkedin",
+			"logoClass": "bi bi-linkedin",
+			"href": "https://www.linkedin.com/in/haraldbliko/"
+		}
+	]
+}
