@@ -1,0 +1,33 @@
+{
+	"title": "CMTr.io - When the going get's weird, the weird turn pro.",
+	"hero": {
+		"title": "CMTr.io",
+		"subTitle": "Helping business do the unfamiliar"
+	},
+	"clients": [
+		{
+			"src": "/assets/img/clients/client-1.png",
+			"alt": "client"
+		},
+		{
+			"src": "/assets/img/clients/client-2.png",
+			"alt": "client"
+		},
+		{
+			"src": "/assets/img/clients/client-3.png",
+			"alt": "client"
+		},
+		{
+			"src": "/assets/img/clients/client-4.png",
+			"alt": "client"
+		},
+		{
+			"src": "/assets/img/clients/client-5.png",
+			"alt": "client"
+		},
+		{
+			"src": "/assets/img/clients/client-6.png",
+			"alt": "client"
+		}
+	]
+}

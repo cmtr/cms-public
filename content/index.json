@@ -1,17 +1,23 @@
 {
-	"index": {
-		"about": {
-			"type": "map",
-			"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/index.json"
-		},
-		"services": {
-			"type": "map",
-			"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/services/index.json"
-		},
-		"publications": {
-			"type": "map",
-			"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/publications/index.json"
-		}
+	"about": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/index.json"
+	},
+	"services": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/services/index.json"
+	},
+	"publications": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/publications/index.json"
+	},
+	"home": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/page/home.json"
+	},
+	"common": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/page/common.json"
 	},
 	"navigation": {
 		"type": "map",

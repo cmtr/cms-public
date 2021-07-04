@@ -1,0 +1,67 @@
+{
+	"title": "CMTr.io - When the going get's weird, the weird turn pro.",
+	"company": {
+		"legalName": "CMTr AS",
+		"businessName": "CMTr.io",
+		"href": "https://cmtr.io",
+		"address": {
+			"street": "Nedre Banegate 3",
+			"zipCode": 4014,
+			"city": "Stavanger",
+			"country": "Norway"
+		},
+		"email": [
+			{
+				"key": "main",
+				"displayName": "Contact",
+				"email": "contact (at) cmtr.io"
+			}
+		],
+		"phone": [
+			{
+				"key": "main",
+				"displayName": "Main",
+				"countryCode": "47",
+				"number": "986 84 197"
+			}
+		],
+		"social": [
+			{
+				"key": "twitter",
+				"logoClass": "bx bxl-twitter",
+				"class": "twitter",
+				"href": "#"
+			},
+			{
+				"key": "facebook",
+				"logoClass": "bx bxl-facebook",
+				"class": "facebook",
+				"href": "#"
+			},
+			{
+				"key": "instagram",
+				"logoClass": "bx bxl-instagram",
+				"class": "instagram",
+				"href": "#"
+			},
+			{
+				"key": "google-plus",
+				"logoClass": "bx bxl-google-plus",
+				"class": "google-plus",
+				"href": "#"
+			},
+			{
+				"key": "linkedin",
+				"logoClass": "bx bxl-linkedin",
+				"class": "linkedin",
+				"href": "#"
+			}
+
+		]
+	},
+	"newsletter": {
+		"title": "Our Newsletter",
+		"paragraph": "Stay up to date with what's happing by joining our newsletter.",
+		"subscribe": "Subscribe"
+	}
+}
