@@ -1,0 +1,6 @@
+{
+	"stockImages": {
+		"type": "map",
+		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/images/stock-images.json"
+	}
+}
