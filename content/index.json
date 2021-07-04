@@ -12,5 +12,9 @@
 			"type": "map",
 			"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/publications/index.json"
 		}
+	},
+	"images": {
+		"type": "map",
+			"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/images/index.json"
 	}
 }
