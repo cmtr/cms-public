@@ -1,15 +1,14 @@
 {
-		"title": "Team",
-		"paragraph": "Check our Team",
-		"team": [
-			{
-				"type": "map",
-				"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/team/harald-bliko.json"
-			},
-			{
-				"type": "map",
-				"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/team/anna-bliko.json"
-			}
-		]
-	}
+	"title": "Team",
+	"paragraph": "Check our Team",
+	"team": [
+		{
+			"type": "map",
+			"source": "about/team/harald-bliko.json"
+		},
+		{
+			"type": "map",
+			"source": "about/team/anna-bliko.json"
+		}
+	]
 }

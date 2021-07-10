@@ -1,10 +1,10 @@
 {
 	"mvp": {
 		"type": "map",
-		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/navigation/mvp.json"
+		"source": "navigation/mvp.json"
 	},
 	"full": {
 		"type": "map",
-		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/navigation/full.json"
+		"source": "navigation/full.json"
 	}
 }

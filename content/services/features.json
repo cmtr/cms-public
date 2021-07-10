@@ -1,0 +1,46 @@
+[
+    {
+      "logoClass": "ri-gps-line",
+      "feature": "Project Management",
+      "image": {
+        "src": "/assets/img/features-1.png",
+        "alt": "feature"
+      },
+      "body": "",
+      "path": "services/intro_project_mgmt.md",
+      "href": "/services/projectmanagement"
+    },
+    {
+      "logoClass": "ri-body-scan-line",
+      "feature": "Facilitation & Couching",
+      "image": {
+        "src": "/assets/img/features-4.png",
+        "alt": "feature"
+      },
+      "body": "",
+      "path": "services/intro_facilitation.md",
+      "href": "/services/facilitationcoaching"
+    },
+    {
+      "logoClass": "ri-sun-line",
+      "feature": "Analysis & Research",
+      "image": {
+        "src": "/assets/img/features-3.png",
+        "alt": "feature"
+      },
+      "body": "",
+      "path": "services/intro_analysis_research.md",
+      "href": "/services/analysisresearch"
+    },
+    {
+      "logoClass": "ri-store-line",
+      "feature": "UX / UI Design",
+      "image": {
+        "src": "/assets/img/features-2.png",
+        "alt": "feature"
+      },
+      "body": "",
+      "path": "services/intro_ux_design.md",
+      "href": "/services/uxdesign"
+    }
+]

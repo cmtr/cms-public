@@ -1,0 +1,128 @@
+[
+  {
+    "id": "strgpyr1",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/introduction.md",
+    "title": "Introduction to Strategic Pyramid Analysis",
+    "subTitle": "Part 1 - Strateigy Pyramid Analysis", 
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
+        "alt": "Sunset in Solitude",
+        "paragraph": "Strategy is about reflection"
+      }
+    }
+  },
+  {
+    "id": "strgpyr2",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/strategic_pyramid_analysis.md",
+    "title": "Strategic Pyramid Analysis",
+    "subTitle": "Part 2 - Strateigy Pyramid Analysis",
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
+        "alt": "Passion led us here",
+        "paragraph": "Passion led us here"
+      }
+    }
+  },
+  {
+    "id": "strgpyr3",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/defining_your_values.md",
+    "title": "Defining Your Values",
+    "subTitle": "Part 3 - Strateigy Pyramid Analysis", 
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
+        "alt": "Passion led us here",
+        "paragraph": "Passion led us here"
+      }
+    }
+  },
+  {
+    "id": "strgpyr4",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/defining_your_mission.md",
+    "title": "Defining Your Mission",
+    "subTitle": "Part 4 - Strateigy Pyramid Analysis",
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
+        "alt": "Passion led us here",
+        "paragraph": "Passion led us here"
+      }
+    }
+  },
+  {
+    "id": "strgpyr5",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/defining_your_vision.md",
+    "title": "Defining Your Vision",
+    "subTitle": "Part 5 - Strateigy Pyramid Analysis", 
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
+        "alt": "Passion led us here",
+        "paragraph": "Passion led us here"
+      }
+    }
+  },
+  {
+    "id": "strgpyr6",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/defining_your_objectives.md",
+    "title": "Defining Your Objectives",
+    "subTitle": "Part 6 - Strateigy Pyramid Analysis", 
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
+        "alt": "Passion led us here",
+        "paragraph": "Passion led us here"
+      }
+    }
+  },
+  {
+    "id": "strgpyr7",
+    "type": "article",
+    "body": "",
+    "path": "publications/spa/defining_your_actions_and_metrics.md",
+    "title": "Defining Your Actions & Metrics",
+    "subTitle": "Part 7 - Strateigy Pyramid Analysis", 
+    "paragraph": "",
+    "tags": [ "Strategy", "Management", "Analysis"],
+    "authors": [],
+    "images": {
+      "head": {
+        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
+        "alt": "Passion led us here",
+        "paragraph": "Passion led us here"
+      }
+    }
+  }
+]

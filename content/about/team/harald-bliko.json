@@ -4,8 +4,8 @@
 	"image": {
 		"src": "/assets/img/team/harald-bliko-001.jpg",
 		"alt": "team member"
-	}
-	,"social": [
+	},
+	"social": [
 		{
 			"key": "linkedin",
 			"logoClass": "bi bi-linkedin",

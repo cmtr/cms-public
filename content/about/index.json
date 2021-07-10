@@ -1,18 +1,18 @@
 {
 	"about": {
 		"type": "map",
-		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/about.json"
+		"source": "about/about.json"
 	},
 	"aboutBoxes": {
 		"type": "map",
-		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/about-boxes.json"
+		"source": "about/about-boxes.json"
 	},
 	"aboutContent": {
 		"type": "map",
-		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/about-content.json"
+		"source": "about/about-content.json"
 	},
 	"team": {
 		"type": "map",
-		"source": "https://raw.githubusercontent.com/cmtr/cms-public/main/content/about/team/index.json"
+		"source": "about/team/index.json"
 	}
 }

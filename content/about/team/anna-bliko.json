@@ -4,8 +4,8 @@
 	"image": {
 		"src": "/assets/img/team/anna-bliko-002.png",
 		"alt": "team member"
-	}
-	,"social": [
+	},
+	"social": [
 		{
 			"key": "linkedin",
 			"logoClass": "bi bi-linkedin",
