@@ -7,7 +7,9 @@
         "alt": "feature"
       },
       "body": "",
-      "path": "services/intro_project_mgmt.md",
+      "type": "external-field",
+  		"target": "body",
+  		"source": "services/intro_project_mgmt.md",
       "href": "/services/projectmanagement"
     },
     {
@@ -18,7 +20,9 @@
         "alt": "feature"
       },
       "body": "",
-      "path": "services/intro_facilitation.md",
+      "type": "external-field",
+  		"target": "body",
+  		"source": "services/intro_facilitation.md",
       "href": "/services/facilitationcoaching"
     },
     {
@@ -29,7 +33,9 @@
         "alt": "feature"
       },
       "body": "",
-      "path": "services/intro_analysis_research.md",
+      "type": "external-field",
+  		"target": "body",
+  		"source": "services/intro_analysis_research.md",
       "href": "/services/analysisresearch"
     },
     {
@@ -40,7 +46,9 @@
         "alt": "feature"
       },
       "body": "",
-      "path": "services/intro_ux_design.md",
+      "type": "external-field",
+	  	"target": "body",
+		  "source": "services/intro_ux_design.md",
       "href": "/services/uxdesign"
     }
 ]

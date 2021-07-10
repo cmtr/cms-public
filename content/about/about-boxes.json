@@ -1,5 +1,9 @@
 [
 	{
+		"id": "ourvalues",
+		"type": "external-field",
+		"target": "paragraph",
+		"source": "about/values.md", 
 		"logoClass":"ri-calendar-check-line",
 		"image": {
 			"src": "/assets/img/stock/sean-stratton-ObpCE_X3j6U-unsplash.jpg",
@@ -8,10 +12,13 @@
 		},
 		"title": "Our Values",
 		"paragraph": "",
-		"href": "#",
-		"path": "about/values.md"
+		"href": "#"
 	},
 	{
+		"id": "ourmission",
+		"type": "external-field",
+		"target": "paragraph",
+		"source": "about/mission.md",
 		"logoClass":"ri-brush-4-line",
 		"image": {
 			"src": "/assets/img/stock/kalen-emsley-7bwQXzbF6KE-unsplash.jpg",
@@ -20,10 +27,13 @@
 		},
 		"title": "Our Mission",
 		"paragraph": "",
-		"href": "#",
-		"path": "about/mission.md"
+		"href": "#"
 	},
 	{
+		"id": "ourvision",
+		"type": "external-field",
+		"target": "paragraph",
+		"source": "about/vision.md",
 		"logoClass":"ri-movie-2-line",
 		"image": {
 			"src": "/assets/img/stock/matt-noble-BpTMNN9JSmQ-unsplash.jpg",
@@ -32,7 +42,6 @@
 		},
 		"title": "Our Vision",
 		"paragraph": "",
-		"href": "#",
-		"path": "about/vision.md"
+		"href": "#"
 	}				
 ]

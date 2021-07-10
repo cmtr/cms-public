@@ -41,24 +41,22 @@ const isURL = (str) => {
 
 
 // Get Data
-const getJsonFromUrl = (url) => axois
+const getFromUrl = (url) => axois
 	.get(url)
 	.then(fp.get('data'));
 
-const getJsonFromFile = (file) => promisify(fs.readFile)(file, 'utf-8')
-	.then(JSON.parse)
+const getFromFile = (file) => promisify(fs.readFile)(file, 'utf-8')
 
-const getJson = (root) => (path) => {
-	console.log(path);
-	return 	isURL(root) 
-	? getJsonFromUrl(root + path)
-	: getJsonFromFile(root + path).catch((err) => {
-		console.log('Error in file: ' + path);
-		console.log(JSON.parse(JSON.stringify(err)))
-		console.log()
-	});
-}
+const getJson = (root) => (path) => isURL(root) 
+	? getFromUrl(root + path)
+	: getFromFile(root + path)
+		.then(JSON.parse);
 
+const getData = (root) => (path) => isURL(root) 
+	? getFromUrl(root + path)
+	: getFromFile(root + path); 
+
+// Tree Builder
 const reduceEntriesToObject = (obj={}) => (arr) => arr
 	.reduce((acc, [key, value]) => _.set(acc, key, value), obj);
 
@@ -83,10 +81,16 @@ const traverseThree = (root, func) => async (obj) => Promise
 	.then(reduceEntriesToObject(obj));
 
 
+const updateExternalField = (root) => async (obj) => isType('external-field')(obj)
+	? getData(root)(obj.source)
+		.then((val) => _.set(obj, obj.target, val))
+	: obj;
+
 const build = (root) => fp.flow(
 	getJson(root),
 	resolve(traverseThree(root, getSubtree(root))),
-//	resolve(async (data) => _.get(data, 'about.team.team')),
+	resolve(traverseThree(root, updateExternalField(root))),
+//	resolve(async (data) => _.get(data, 'services')),
 	resolve(console.log)
 );
 

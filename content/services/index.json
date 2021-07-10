@@ -107,9 +107,10 @@
   "serviceContent": {
     "uxdesign": {
       "id": "uxdesign",
-      "type": "article",
       "body": "",
-      "path": "services/ux_design.md",
+      "type": "external-field",
+  		"target": "body",
+  		"source": "services/ux_design.md",
       "title": "UX Design",
       "subTitle": "The User is King",
       "authors": [],
@@ -127,9 +128,10 @@
     },
     "analysisresearch": {
       "id": "analysisresearch",
-      "type": "article",
       "body": "",
-      "path": "services/analysis_research.md",
+      "type": "external-field",
+    	"target": "body",
+    	"source": "services/analysis_research.md",
       "title": "Analysis & Research",
       "subTitle": "Knowing the problem is key",
       "authors": [],
@@ -147,9 +149,11 @@
     },
     "projectmanagement": {
       "id": "projectmanagement",
-      "type": "article",
+      
       "body": "",
-      "path": "services/project_product_mgmt.md",
+      "type": "external-field",
+  		"target": "body",
+  		"source": "services/project_mgmt.md",
       "title": "Project, Program & Portfolio Management",
       "subTitle": "How we can help you with your Project, Program & Portfolio Management.",
       "authors": [],
@@ -167,9 +171,10 @@
     },    
     "facilitationcoaching": {
       "id": "facilitationcoaching",
-      "type": "article",
       "body": "",
-      "path": "services/facilitation_coaching.md",
+      "type": "external-field",
+  		"target": "body",
+  		"source": "services/facilitation_coaching.md",
       "title": "Facilitation & Coaching",
       "subTitle": "How we can help you releasing your own or your teams full potential",
       "authors": [],
