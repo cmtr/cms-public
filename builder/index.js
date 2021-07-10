@@ -90,5 +90,5 @@ const build = (root) => fp.flow(
 	resolve(console.log)
 );
 
-const root = build(githubRoot)(index);
+const root = build(fileRoot)(index);
 	
