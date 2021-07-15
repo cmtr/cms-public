@@ -1,8 +1,7 @@
 {
 	"image": {
-		"src": "/assets/img/about.jpg",
-		"alt": "CMTr",
-		"video": "https://www.youtube.com/watch?v=jDDaplaOz7Q"
+		"type": "ref",
+		"source": "images.stockImages.unsplashed023"
 	},
 	"text": {
 		"type": "external-field",

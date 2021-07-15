@@ -63,5 +63,10 @@
 		"title": "Our Newsletter",
 		"paragraph": "Stay up to date with what's happing by joining our newsletter.",
 		"subscribe": "Subscribe"
+	},
+	"meta": {
+		"description": "",
+		"keywords": ""
 	}
+
 }

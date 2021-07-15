@@ -2,5 +2,9 @@
 	"stockImages": {
 		"type": "map",
 		"source": "images/stock-images.json"
+	},
+	"assets": {
+		"type": "map",
+		"source": "images/assets.json"
 	}
 }

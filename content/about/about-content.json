@@ -1,5 +1,5 @@
-{
-	"waywework": {
+[
+	{
 		"id": "waywework",
 		"type": "external-field",
 		"target": "body",
@@ -17,7 +17,7 @@
 			}
 		}
 	},
-	"thisisus": {
+	{
 		"id": "thisisus",
 		"type": "external-field",
 		"target": "body",
@@ -35,7 +35,7 @@
 			}
 		}
 	},
-	"whoweare": {
+	{
 		"id": "whoweare",
 		"type": "external-field",
 		"target": "body",
@@ -53,7 +53,7 @@
 			}
 		}
 	},
-	"ourmission": {
+	{
 		"id": "ourmission",
 		"type": "external-field",
 		"target": "body",
@@ -71,7 +71,7 @@
 			}
 		}
 	},
-	"ourvalues": {
+	{
 		"id": "ourvalues",
 		"type": "external-field",
 		"target": "body",
@@ -89,7 +89,7 @@
 			}
 		}
 	},
-	"ourvision": {
+	{
 		"id": "ourvision",
 		"type": "external-field",
 		"target": "body",
@@ -107,7 +107,7 @@
 			}
 		}
 	},
-	"ourstory": {
+	{
 		"id": "ourstory",
 		"type": "external-field",
 		"target": "body",
@@ -125,4 +125,4 @@
 			}
 		}
 	}
-}
+]

@@ -6,17 +6,31 @@
     "body": "",
     "source": "publications/spa/introduction.md",
     "title": "Introduction to Strategic Pyramid Analysis",
-    "subTitle": "Part 1 - Strateigy Pyramid Analysis", 
+    "subTitle": "Part 1 of the Strateigy Pyramid Analysis Series. The articles are aimed at freelancers, teams, entrepenurs or individuals looking to formalize the stragic work of their endevour. This article will start with a Introduction to Strategic Pyramid Analysis.", 
     "paragraph": "",
-    "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "tags": [ "Strategy", "Management", "Analysis" ],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-        "alt": "Sunset in Solitude",
-        "paragraph": "Strategy is about reflection"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed001"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
-    }
+    },
+    "relatedArticles": [
+      {
+        "href": "/publication/strgpyr2",
+        "title": "Rel"
+      }
+    ]
   },
   {
     "id": "strgpyr2",
@@ -28,12 +42,20 @@
     "subTitle": "Part 2 - Strateigy Pyramid Analysis",
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
-        "alt": "Passion led us here",
-        "paragraph": "Passion led us here"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed003"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
     }
   },
@@ -47,12 +69,20 @@
     "subTitle": "Part 3 - Strateigy Pyramid Analysis", 
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
-        "alt": "Passion led us here",
-        "paragraph": "Passion led us here"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed004"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
     }
   },
@@ -66,12 +96,20 @@
     "subTitle": "Part 4 - Strateigy Pyramid Analysis",
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
-        "alt": "Passion led us here",
-        "paragraph": "Passion led us here"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed005"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
     }
   },
@@ -85,12 +123,20 @@
     "subTitle": "Part 5 - Strateigy Pyramid Analysis", 
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
-        "alt": "Passion led us here",
-        "paragraph": "Passion led us here"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed006"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
     }
   },
@@ -104,12 +150,20 @@
     "subTitle": "Part 6 - Strateigy Pyramid Analysis", 
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
-        "alt": "Passion led us here",
-        "paragraph": "Passion led us here"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed007"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
     }
   },
@@ -123,12 +177,20 @@
     "subTitle": "Part 7 - Strateigy Pyramid Analysis", 
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
-    "authors": [],
+    "authors": [
+      {
+        "type": "ref",
+        "source": "about.team.team.haraldbliko"
+      }
+    ],
     "images": {
       "head": {
-        "src": "/assets/img/stock/ian-schneider-TamMbr4okv4-unsplash.jpg",
-        "alt": "Passion led us here",
-        "paragraph": "Passion led us here"
+        "type": "ref",
+        "source": "images.stockImages.unsplashed010"
+      },
+      "thumbnail": {
+        "type": "ref",
+        "source": "images.stockImages.unsplashed002"
       }
     }
   }

@@ -19,12 +19,6 @@
 			},
 			{
 				"type": "link",
-				"key": "portfolio",
-				"title": "Portfolio",
-				"href": "/portfolio"
-			},
-			{
-				"type": "link",
 				"key": "publication",
 				"title": "publications",
 				"href": "/publication"

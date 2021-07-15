@@ -69,11 +69,9 @@ const traverseThree = (root, func) => async (obj) => Promise
 		.entries(obj)
 		.map(([key, val]) => func(val)
 				.then(res => {
-					if (isObject(val)) 
-						return traverseThree(root, func)(res)
+					if (isObject(val)) return traverseThree(root, func)(res)
 							.then((data) => [key, data]);
-					if (isArray(val))
-						return Promise
+					if (isArray(val)) return Promise
 							.all(res.map(traverseThree(root, func)))
 							.then((res) => [key, res]);
 					return [key, res]
@@ -90,9 +88,9 @@ const build = (root) => fp.flow(
 	getJson(root),
 	resolve(traverseThree(root, getSubtree(root))),
 	resolve(traverseThree(root, updateExternalField(root))),
-//	resolve(async (data) => _.get(data, 'services')),
+	resolve(async (data) => _.get(data, 'common')),
 	resolve(console.log)
 );
 
-const root = build(fileRoot)(index);
+const root = build(githubRoot)(index);
 	
