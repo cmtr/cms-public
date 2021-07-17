@@ -3,8 +3,8 @@
       "logoClass": "ri-gps-line",
       "feature": "Project Management",
       "image": {
-        "src": "/assets/img/features-1.png",
-        "alt": "feature"
+        "type": "ref",
+        "source": "images.assets.asset001"
       },
       "body": "",
       "type": "external-field",
@@ -16,8 +16,8 @@
       "logoClass": "ri-body-scan-line",
       "feature": "Facilitation & Couching",
       "image": {
-        "src": "/assets/img/features-4.png",
-        "alt": "feature"
+        "type": "ref",
+        "source": "images.assets.asset002"
       },
       "body": "",
       "type": "external-field",
@@ -29,8 +29,8 @@
       "logoClass": "ri-sun-line",
       "feature": "Analysis & Research",
       "image": {
-        "src": "/assets/img/features-3.png",
-        "alt": "feature"
+        "type": "ref",
+        "source": "images.assets.asset003"
       },
       "body": "",
       "type": "external-field",
@@ -42,8 +42,8 @@
       "logoClass": "ri-store-line",
       "feature": "UX / UI Design",
       "image": {
-        "src": "/assets/img/features-2.png",
-        "alt": "feature"
+        "type": "ref",
+        "source": "images.assets.asset004"
       },
       "body": "",
       "type": "external-field",

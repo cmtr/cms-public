@@ -12,10 +12,36 @@
 				"href": "/"
 			},
 			{
-				"type": "link",
+				"type": "dropdown",
 				"key": "services",
 				"title": "Services",
-				"href": "/services"
+				"href": "/services",
+				"items": [
+					{
+						"type": "link",
+						"key": "services",
+						"title": "Project, Program & Portfolio Management",
+						"href": "/services/projectmanagement"
+					},
+					{
+						"type": "link",
+						"key": "services",
+						"title": "Facilitation & Couching",
+						"href": "/services/facilitationcoaching"
+					},
+					{
+						"type": "link",
+						"key": "services",
+						"title": "Analysis & Research",
+						"href": "/services/analysisresearch"
+					},
+					{
+						"type": "link",
+						"key": "services",
+						"title": "UX Design",
+						"href": "/services/uxdesign"
+					}					
+				]
 			},
 			{
 				"type": "link",
@@ -32,12 +58,12 @@
 					{
 						"type": "link",
 						"title": "This Is Us",
-						"href": "about/thisisus"
+						"href": "/about/thisisus"
 					},
 					{
 						"type": "link",
 						"title": "The Way We Work",
-						"href": "about/waywework"
+						"href": "/about/waywework"
 					},
 					{
 						"type": "dropdown",
@@ -107,11 +133,6 @@
 				"href": "/services"
 			},
 			{
-				"key": "portfolio",
-				"title": "Portfolio",
-				"href": "/portfolio"
-			},
-			{
 				"key": "publication",
 				"title": "Publication",
 				"href": "/publication"
@@ -122,29 +143,24 @@
 		"title": "Our Services",
 		"items": [
 			{
-				"key": "pm",
-				"title": "Project, Portfolio & Program Management",
-				"href": "#"
+				"key": "services",
+				"title": "Project, Program & Portfolio Management",
+				"href": "/services/projectmanagement"
 			},
 			{
-				"key": "productmanagement",
-				"title": "Product Management",
-				"href": "#"
+				"key": "services",
+				"title": "Facilitation & Couching",
+				"href": "/services/facilitationcoaching"
 			},
 			{
-				"key": "marketing",
+				"key": "services",
 				"title": "Analysis & Research",
-				"href": "#"
+				"href": "/services/analysisresearch"
 			},
 			{
-				"key": "analysis",
-				"title": "User Analysis & Research",
-				"href": "#"
-			},
-			{
-				"key": "coaching",
-				"title": "Facilitation & Coaching",
-				"href": "#"
+				"key": "services",
+				"title": "UX Design",
+				"href": "/services/uxdesign"
 			}
 		]
 	}

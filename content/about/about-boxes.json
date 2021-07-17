@@ -11,7 +11,7 @@
 		},
 		"title": "Our Values",
 		"paragraph": "",
-		"href": "#"
+		"href": "/about/ourvalues"
 	},
 	{
 		"id": "ourmission",
@@ -25,7 +25,7 @@
 		},
 		"title": "Our Mission",
 		"paragraph": "",
-		"href": "#"
+		"href": "/about/ourmission"
 	},
 	{
 		"id": "ourvision",
@@ -39,6 +39,6 @@
 		},
 		"title": "Our Vision",
 		"paragraph": "",
-		"href": "#"
+		"href": "/about/ourvision"
 	}				
 ]

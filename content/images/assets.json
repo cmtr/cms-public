@@ -1,7 +1,34 @@
 [
 	{
-		"id": "asset00",
-		"src": "/assets/img/",
+		"id": "asset001",
+		"src": "/assets/img/features-1.png",
+		"alt": "",
+		"hover": "",
+		"paragraph": "",
+		"source": "assets",
+		"tags": [ ]	
+	},
+	{
+		"id": "asset002",
+		"src": "/assets/img/features-2.png",
+		"alt": "",
+		"hover": "",
+		"paragraph": "",
+		"source": "assets",
+		"tags": [ ]	
+	},
+	{
+		"id": "asset003",
+		"src": "/assets/img/features-3.png",
+		"alt": "",
+		"hover": "",
+		"paragraph": "",
+		"source": "assets",
+		"tags": [ ]	
+	},
+	{
+		"id": "asset004",
+		"src": "/assets/img/features-4.png",
 		"alt": "",
 		"hover": "",
 		"paragraph": "",
@@ -25,32 +52,5 @@
 		"paragraph": "",
 		"source": "assets",
 		"tags": [ ]	
-	},
-	{
-		"id": "asset00",
-		"src": "/assets/img/",
-		"alt": "",
-		"hover": "",
-		"paragraph": "",
-		"source": "assets",
-		"tags": [ ]	
-	},
-	{
-		"id": "asset00",
-		"src": "/assets/img/",
-		"alt": "",
-		"hover": "",
-		"paragraph": "",
-		"source": "assets",
-		"tags": [ ]	
-	},
-	{
-		"id": "asset00",
-		"src": "/assets/img/",
-		"alt": "",
-		"hover": "",
-		"paragraph": "",
-		"source": "assets",
-		"tags": [ ]	
-	},
+	}
 ]

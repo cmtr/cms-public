@@ -57,8 +57,8 @@
       }
     ]
   },
-  "serviceContent": {
-    "uxdesign": {
+  "serviceContent": [
+    {
       "id": "uxdesign",
       "body": "",
       "type": "external-field",
@@ -79,7 +79,7 @@
         }
       }
     },
-    "analysisresearch": {
+    {
       "id": "analysisresearch",
       "body": "",
       "type": "external-field",
@@ -100,7 +100,7 @@
         }
       }
     },
-    "projectmanagement": {
+    {
       "id": "projectmanagement",
       
       "body": "",
@@ -122,7 +122,7 @@
         }
       }
     },    
-    "facilitationcoaching": {
+    {
       "id": "facilitationcoaching",
       "body": "",
       "type": "external-field",
@@ -143,5 +143,5 @@
         }
       }
     }
-  }
+  ]
 }

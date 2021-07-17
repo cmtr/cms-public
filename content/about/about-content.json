@@ -11,9 +11,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed001"				
 			}
 		}
 	},
@@ -29,9 +28,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed001"
 			}
 		}
 	},
@@ -47,9 +45,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed001"
 			}
 		}
 	},
@@ -65,9 +62,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed014"
 			}
 		}
 	},
@@ -83,9 +79,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed012"
 			}
 		}
 	},
@@ -101,9 +96,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed011"
 			}
 		}
 	},
@@ -119,9 +113,8 @@
 		"tags": [],
 		"images": {
 			"head": {
-				"src": "/assets/img/stock/joshua-earle-Dwheufds6kQ-unsplash.jpg",
-				"alt": "Sunset in Solitude",
-				"paragraph": "Strategy is about reflection"
+				"type": "ref",
+				"source": "images.stockImages.unsplashed001"
 			}
 		}
 	}

@@ -7,7 +7,7 @@ Waterfall (predicitive) all the way
 
 ### Standards from the Project Management Institute
 
-Our advisors are knowledgeable and certified by (Project Management Institute)[https://www.pmi.org/] in their domain. The company has by policy decided to rely primarilly on the *PMI Standards for Project, Program and Portfolio Management* as they fit the companys profile of being individual (tailorable), generalist (broad) and advisory (guidelines) based. This does however not mean that we limit our selfs to them and ignore the lessons from competing standars and frameworks. 
+Our advisors are knowledgeable and certified by [Project Management Institute](https://www.pmi.org/) in their domain. The company has by policy decided to rely primarilly on the *PMI Standards for Project, Program and Portfolio Management* as they fit the companys profile of being individual (tailorable), generalist (broad) and advisory (guidelines) based. This does however not mean that we limit our selfs to them and ignore the lessons from competing standars and frameworks. 
 
 Our Project 
 
