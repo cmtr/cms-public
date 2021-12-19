@@ -1,19 +1,5 @@
 [
 	{
-		"id": "ourvalues",
-		"type": "external-field",
-		"target": "paragraph",
-		"source": "about/values.md", 
-		"logoClass":"ri-calendar-check-line",
-		"image": {
-			"type": "ref",
-			"source": "images.stockImages.unsplashed012"
-		},
-		"title": "Our Values",
-		"paragraph": "",
-		"href": "/about/ourvalues"
-	},
-	{
 		"id": "ourmission",
 		"type": "external-field",
 		"target": "paragraph",
@@ -26,6 +12,20 @@
 		"title": "Our Mission",
 		"paragraph": "",
 		"href": "/about/ourmission"
+	},
+	{
+		"id": "ourvalues",
+		"type": "external-field",
+		"target": "paragraph",
+		"source": "about/values.md", 
+		"logoClass":"ri-calendar-check-line",
+		"image": {
+			"type": "ref",
+			"source": "images.stockImages.unsplashed012"
+		},
+		"title": "Our Values",
+		"paragraph": "",
+		"href": "/about/ourvalues"
 	},
 	{
 		"id": "ourvision",

@@ -8,4 +8,4 @@ Our advisors experienced in risk management, peer-review, investigations and roo
 
 To ensure the highest quality for service for our clients, our advisors rely on the established standards of the [Project Management Institute \(PMI\)](https://www.pmi.org/) to guide them.
 
-
+[Read more](/services/projectmanagement)

@@ -9,3 +9,5 @@ We provide advisory services that help you or your team to unlock your inner pot
 Our advisors are experienced with the tools and techniques of both _coaching_ and _facilitation_. They can help you or your team builds awareness and empowers choices that lead to the changes necessary to becoming who you or your team want to be.
 
 To ensure the highest quality for service for our clients, our advisors rely on the established standards of the [International Association of Facilitators (IAF)](https://www.iaf-world.org/) and [International Coaching Community (ICC)](https://internationalcoachingcommunity.com/) to guide them.
+
+[Read More](/services/facilitationcoaching)

@@ -26,21 +26,21 @@
 					{
 						"type": "link",
 						"key": "services",
-						"title": "Facilitation & Couching",
-						"href": "/services/facilitationcoaching"
-					},
-					{
-						"type": "link",
-						"key": "services",
-						"title": "Analysis & Research",
+						"title": "Business Analysis & Research",
 						"href": "/services/analysisresearch"
 					},
 					{
 						"type": "link",
 						"key": "services",
-						"title": "UX Design",
+						"title": "UX Reseach, Analysis & Design",
 						"href": "/services/uxdesign"
-					}					
+					},					
+					{
+						"type": "link",
+						"key": "services",
+						"title": "Facilitation & Couching",
+						"href": "/services/facilitationcoaching"
+					}
 				]
 			},
 			{
