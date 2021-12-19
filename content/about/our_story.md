@@ -6,6 +6,8 @@ This is also related to the origin of the companys name. As in most sectors of t
 
 
 > "*When the going get weird the weird turn pro.*"
+> 
+> **Hunter S. Thompson**
 
 > "*In times of change or upheaval, anyone can make a legitimate business from their own personal vision, however different it may be.*"
 
