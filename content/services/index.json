@@ -14,20 +14,54 @@
         "href": "#"
       },
       {
-        "logoClass": "bi bi-laptop",
-        "title": "Product Development",
+        "logoClass": "bi bi-kanban",
+        "title": "Program Management",
+        "paragraph": "With unfamiliarity comes projects. Done right they can be a power change agent.",
+        "href": "#"
+      },
+      {
+        "logoClass": "bi bi-kanban",
+        "title": "Portfolio Management",
+        "paragraph": "With unfamiliarity comes projects. Done right they can be a power change agent.",
+        "href": "#"
+      },
+
+      {
+        "logoClass": "bi bi-heart",
+        "title": "Product Management",
         "paragraph": "Services, applications, frameworks, etc. They all have to be developed.",
         "href": "#"
       },
       {
+        "logoClass": "bi bi-heart",
+        "title": "Product Development",
+        "paragraph": "Services, applications, frameworks, etc. They all have to be developed.",
+        "href": "#"
+      },
+
+      {
+        "logoClass": "bi bi-heart",
+        "title": "UX Design",
+        "paragraph": "All good services and products starts with a good design system.",
+        "href": "#"
+      },
+      
+      {
         "logoClass": "bi bi-lightbulb",
-        "title": "User Research & Analysis",
+        "title": "Business Analysis & Research",
+        "paragraph": "Understanding user on their terms is the first step to idenityfing how to service their needs.",
+        "href": "#"
+      },
+
+      {
+        "logoClass": "bi bi-lightbulb",
+        "title": "User Analysis & Research",
         "paragraph": "Understanding user on their terms is the first step to idenityfing how to service their needs.",
         "href": "#"
       },
       {
-        "logoClass": "bi bi-briefcase",
-        "title": "Market Research & Analysis",
+        "logoClass": "bi bi-lightbulb",
+        "title": "Market Analysis & Research",
         "paragraph": "The ultimate product have no use if nobody knows about it. Also if it already exist.",
         "href": "#"
       },
@@ -35,12 +69,6 @@
         "logoClass": "bi bi-card-checklist",
         "title": "Facilitation",
         "paragraph": "A guiding hand to bring the out the best of your peoples ideas, knowhow and expertise.",
-        "href": "#"
-      },
-      {
-        "logoClass": "bi bi-heart",
-        "title": "UX Design",
-        "paragraph": "All good services and products starts with a good design system.",
         "href": "#"
       },
       {
@@ -65,17 +93,13 @@
   		"target": "body",
   		"source": "services/ux_design.md",
       "title": "UX Design",
-      "subTitle": "The User is King",
+      "subTitle": "How we help you identify and address your users true needs.",
       "authors": [],
       "tags": [],
       "images": {
         "head": {
-          "src": "/assets/img/stock/halgatewood-com-tZc3vjPCk-Q-unsplash.jpg",
-          "alt": "Wireframes - Halgatewood",
-          "hover": "Wireframes",
-          "paragraph": "Wireframes",
-          "source": "unsplashed",
-          "tags": [ "UX", "UI", "Wireframe", "Prototype" ]  
+          "type": "ref",
+          "source": "images.stockImages.unsplashed022"
         }
       }
     },
@@ -85,40 +109,31 @@
       "type": "external-field",
     	"target": "body",
     	"source": "services/analysis_research.md",
-      "title": "Analysis & Research",
-      "subTitle": "Knowing the problem is key",
+      "title": "Business Analysis & Research",
+      "subTitle": "How we help you understand what the situation actualy is.",
       "authors": [],
       "tags": [],
       "images": {
         "head": {
-          "src": "/assets/img/stock/patrick-perkins-ETRPjvb0KM0-unsplash.jpg",
-          "alt": "Ideas - Patrick Perkins",
-          "hover": "Ideas",
-          "paragraph": "Ideas",
-          "source": "unsplashed",
-          "tags": [ "Workshop", "Analysis", "Post-It", "Ideation" ] 
+          "type": "ref",
+          "source": "images.stockImages.unsplashed018"
         }
       }
     },
     {
       "id": "projectmanagement",
-      
       "body": "",
       "type": "external-field",
   		"target": "body",
   		"source": "services/project_mgmt.md",
       "title": "Project, Program & Portfolio Management",
-      "subTitle": "How we can help you with your Project, Program & Portfolio Management.",
+      "subTitle": "How we can help you with address your Project, Program & Portfolio Management needs.",
       "authors": [],
       "tags": [],
       "images": {
         "head": {
-          "src": "/assets/img/stock/xps-kLfkVa_4aXM-unsplash.jpg",
-          "alt": "Project Management - Xps",
-          "hover": "Project Management",
-          "paragraph": "Project Management",
-          "source": "unsplashed",
-          "tags": [ ] 
+          "type": "ref",
+          "source": "images.stockImages.unsplashed021"
         }
       }
     },    
@@ -129,17 +144,13 @@
   		"target": "body",
   		"source": "services/facilitation_coaching.md",
       "title": "Facilitation & Coaching",
-      "subTitle": "How we can help you releasing your own or your teams full potential",
+      "subTitle": "How we can help you releasing your own or your teams full potential.",
       "authors": [],
       "tags": [],
       "images": {
         "head": {
-          "src": "/assets/img/stock/sydney-rae-geM5lzDj4Iw-unsplash.jpg",
-          "alt": "You Got This - Sydney Rae",
-          "hover": "You Got This ",
-          "paragraph": "You Got This ",
-          "source": "unsplashed",
-          "tags": [ "Facilitation", "Coaching" ]  
+          "type": "ref",
+          "source": "images.stockImages.unsplashed017"
         }
       }
     }

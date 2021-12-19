@@ -8,7 +8,7 @@ Business analysis is used to identify and articulate the need for change in how 
 
 Business Analysis is a disciplined approach for introducing and managing change to organizations, whether they are for-profit businesses, governments, or non-profits.
 
-### The value Business Analysis & Research 
+### The value Business Analysis & Research
 According to [PMI’s Pulse of the Profession](https://www.pmi.org/learning/thought-leadership/pulse/core-competency-project-program-success) 47% of unsuccessful projects fail to meet original goals due to poor requirements
 management. In the another [Pulse Report](https://www.pmi.org/learning/thought-leadership/pulse/pulse-of-the-profession-2017) 39% of failed projects identify inaccurate requirements gathering as a primary cause of failure. It further found that those organizations that demonstrate maturity in business analysis practices are 55% more successful in implementing strategy and are much more likely to achieve the expected value from the investments made on programs and projects. 
 
