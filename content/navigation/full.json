@@ -149,18 +149,18 @@
 			},
 			{
 				"key": "services",
-				"title": "Facilitation & Couching",
-				"href": "/services/facilitationcoaching"
-			},
-			{
-				"key": "services",
-				"title": "Analysis & Research",
+				"title": "Business Analysis & Research",
 				"href": "/services/analysisresearch"
 			},
 			{
 				"key": "services",
-				"title": "UX Design",
+				"title": "UX Reseach, Analysis & Design",
 				"href": "/services/uxdesign"
+			},
+			{
+				"key": "services",
+				"title": "Facilitation & Couching",
+				"href": "/services/facilitationcoaching"
 			}
 		]
 	}
