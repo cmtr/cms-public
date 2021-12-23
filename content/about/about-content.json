@@ -14,6 +14,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed012"				
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	},
 	{
@@ -31,6 +35,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed001"
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	},
 	{
@@ -48,6 +56,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed001"
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	},
 	{
@@ -65,6 +77,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed014"
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	},
 	{
@@ -82,6 +98,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed012"
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	},
 	{
@@ -99,6 +119,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed011"
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	},
 	{
@@ -116,6 +140,10 @@
 				"type": "ref",
 				"source": "images.stockImages.unsplashed001"
 			}
+		},
+		"relatedArticles": {
+			"type": "ref",
+			"source": "about.aboutContentRelatedArticles"
 		}
 	}
 ]

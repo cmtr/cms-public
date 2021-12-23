@@ -11,6 +11,43 @@
 		"type": "map",
 		"source": "about/about-content.json"
 	},
+  "aboutContentRelatedArticles": [
+      {
+        "type": "link",
+        "title": "About Us - This Is Us",
+        "href": "/about/thisisus"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Who We Are",
+        "href": "/about/whoweare"
+      },
+      {
+        "type": "link",
+        "title": "About Us - The Way We Work",
+        "href": "/about/waywework"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Story",
+        "href": "/about/ourstory"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Values",
+        "href": "/about/ourvalues"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Mission",
+        "href": "/about/ourmission"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Vision",
+        "href": "/about/ourvision"
+      }
+  ],
 	"team": {
 		"type": "map",
 		"source": "about/team/index.json"

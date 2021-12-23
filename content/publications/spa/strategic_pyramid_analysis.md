@@ -1,11 +1,20 @@
+The intended audience for this article series on _Strategic Pyramid Analysis_ are freelancers, teams, product managers & owners, business analyst, project & program managers, entrepenurs or individuals looking to formalize the stragic work of their endevour. The objective of this article series is to provide actionable recommendations for how to perform a such a analysis and establish whether such a analysis is suitable for you. 
+
+
+The objective of this article is to provide a introduction to what Strategic Pyramid is and how to perform analysis using it. 
+
 ![Strategic Pyramid](/assets/img/pub/values-vision-mission-objectives-explained.png) 
 **Figure 1:** Strategic Pyramid
 
 The strategic pyramid, or strategic management pyramid, comes in many forms. What is common for them all is that is starts with the aspirational level at top with focus on the core belifs of the endevour. It further expands down to the achievable level defining the direction and identity. And in the end lands at the specific and tangable level actionable short.
 
->**Terminology**
-
-> The Strategic Pyramid Analysis is most commonly associated in the use of a business or brand, but it's also applicable for ideal organizations, products or services, brands, individual persons that is endevouring to do something. The definition of *endevour* as a verb is *"try hard to do or achieve something"* and as noun a *"an attempt to achieve a goal"*. And we'll use this term to describe the undertaking in this series. For the endevours participants can also have many forms, such as employees, team or individual, we'll accordingly use the term *member* to describe these (def. *"a person, animal, or plant belonging to a particular group"*).
+>**A few words on Terminology**
+>
+> _Strategic Pyramid Analysis_ is most commonly associated in the use of a business or brand, but it's also applicable for ideal organizations, products or services, brands, individual persons that is endevouring to do something. This means different wordings are used to discribe the same concepts based on with context one is in.
+> 
+> The definition of **_endevour_** as a verb is *"try hard to do or achieve something"* and as noun a *"an attempt to achieve a goal"*. And we'll use this term to describe the undertaking in this series. 
+> 
+> The endevours participants can also have many forms, such as employees, team or individual, we'll accordingly use the term **_member_** to describe these (def. *"a person, animal, or plant belonging to a particular group"*).
 
 ### Values
 The endevours values are the ethics, beliefs, philosophies, and principles that drive your it. It's quite simply what does the endevour stand for?

@@ -85,6 +85,63 @@
       }
     ]
   },
+  "serviceRelatedArticles": [
+      {
+        "type": "link",
+        "title": "Project, Program & Portfolio Management Services",
+        "href": "/services/projectmanagement"
+      },
+      {
+        "type": "link",
+        "title": "Business Analysis & Research Services",
+        "href": "/services/analysisresearch"
+      },
+      {
+        "type": "link",
+        "title": "UX Reseach, Analysis & Design Services",
+        "href": "/services/uxdesign"
+      },          
+      {
+        "type": "link",
+        "title": "Facilitation & Couching Services",
+        "href": "/services/facilitationcoaching"
+      },
+      {
+        "type": "link",
+        "title": "About Us - This Is Us",
+        "href": "/about/thisisus"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Who We Are",
+        "href": "/about/whoweare"
+      },
+      {
+        "type": "link",
+        "title": "About Us - The Way We Work",
+        "href": "/about/waywework"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Story",
+        "href": "/about/ourstory"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Values",
+        "href": "/about/ourvalues"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Mission",
+        "href": "/about/ourmission"
+      },
+      {
+        "type": "link",
+        "title": "About Us - Our Vision",
+        "href": "/about/ourvision"
+      }
+  ],
   "serviceContent": [
     {
       "id": "uxdesign",
@@ -101,6 +158,10 @@
           "type": "ref",
           "source": "images.stockImages.unsplashed022"
         }
+      },
+      "relatedArticles": {
+        "type": "ref",
+        "source": "services.serviceRelatedArticles"
       }
     },
     {
@@ -118,6 +179,10 @@
           "type": "ref",
           "source": "images.stockImages.unsplashed018"
         }
+      },
+      "relatedArticles": {
+        "type": "ref",
+        "source": "services.serviceRelatedArticles"
       }
     },
     {
@@ -135,6 +200,10 @@
           "type": "ref",
           "source": "images.stockImages.unsplashed021"
         }
+      },
+      "relatedArticles": {
+        "type": "ref",
+        "source": "services.serviceRelatedArticles"
       }
     },    
     {
@@ -152,6 +221,10 @@
           "type": "ref",
           "source": "images.stockImages.unsplashed017"
         }
+      },
+      "relatedArticles": {
+        "type": "ref",
+        "source": "services.serviceRelatedArticles"
       }
     }
   ]

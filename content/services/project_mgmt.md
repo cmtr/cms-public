@@ -22,6 +22,7 @@ Our advisors are knowledgeable and certified by [Project Management Institute](h
 In the domain of **Project**, **Program** and **Portfolio Management** we offer both advisory and execution services. As advisors we will analyse your current situation and provide guidence, recommendation and coaching according to industry best practice. In our execution services our advisors will join the project, program or portfolio in a leading or supporting role to assure execution according to industry best practice.
 
 #### Projects Management
+
 Our experienced advisors have broad experience with **Project Management** and can be of assistance to you either if your looking for someone with to assist with the holistic view of the *project* or for someone looking a specific *project management speciality*.
 
 **Project Management Specialities**
@@ -36,6 +37,7 @@ Our experienced advisors have broad experience with **Project Management** and c
 * Procurement Management
 
 #### Program Management
+
 Our experienced advisors have broad experience with **Program Management** and can be of assistance to you either if your looking for someone with to assist with the holistic view of the *program* or for someone looking a specific *program management speciality*.
 
 **Program Management Specialities**
@@ -49,8 +51,8 @@ Our experienced advisors have broad experience with **Program Management** and c
 * Partnership & Value Chain Mangement
 
 #### Portfolio Management
-Our experienced advisors have broad experience with **Portfolio Management** and can be of assistance to you either if your looking for someone with to assist with the holistic view of the *portfolio* or for someone looking a specific *portfolio management speciality*.
 
+Our experienced advisors have broad experience with **Portfolio Management** and can be of assistance to you either if your looking for someone with to assist with the holistic view of the *portfolio* or for someone looking a specific *portfolio management speciality*.
 
 **Portfolio Management Specialites**
 * Strategic Decision Management
