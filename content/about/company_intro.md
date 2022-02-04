@@ -1,15 +1,11 @@
-### Your Independent Generalist Advisory Service
+#### Your Independent Generalist Advisory Service
 
-##### Independent
-The independence is reflected in our company valeus as _Take **Ownership**_ and _Always act with **Integrity**_. This is how we act.
+**Your** - Our clients is the object of our mision with the endevour, vision of the future, and reason for existing. It's your ambitions, challanges, problems or aspirations we want to address. And to do so in the best possible way that suits your specific contect, situation and needs.
 
-##### Generalist
-The generalist approach is reflected in our company's values as _Be **Curious** to all things_ and _**Dive Deep** in to the matter_. This how we learn and improve.
+**Independent** - This is how we act to ensure that you allways gets the best advise we can provide. The independence is reflected in our company valeus as _Take **Ownership**_ and _Always act with **Integrity**_. 
 
-##### Advisory Service
-The advisory perspective is reflected in our company's values as _Be nice to **People**_ and _**Inspire** greatness in others_. This is how we work together.
+**Generalist** - This is what we bring to table. Our breadth of knowlege and your depth of knowledge is how we togheter move forward. The generalist approach is reflected in our companoury's values as _Be **Curious** to all things_ and _**Dive Deep** in to the matter_. 
 
-##### You
-You represent the client and is the object of the endevour, our vision of the future and our mission to exist. It's your challanges or ambitions we want to address in the best possible way that suits your specific situation. 
+**Advisory Service** - This is how we work together in order to secure your interests. The advisory perspective is reflected in our company's values as _Be nice to **People**_ and _**Inspire** greatness in others_. 
 
 [Read more](/about/whoweare)

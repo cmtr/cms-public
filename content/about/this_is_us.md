@@ -1,8 +1,6 @@
 # This Is Us
 
-Most business are rigged to do their own normalcy. They have over time  specialized their organization, people, processes and culture to create a normalzy that is optimized and incrementally enhanced for generating value for their customers within their niche. Their strenght lay in being rigged to do the same thing in a consisten and continiual manner. These organizations often attracts people that like the opportunities of specialization or predictability they can offer.
-
-The trade off such organization must accept is that they become less flexible, adaptable and agile as due to the inertia of their mindsets, ways of working and earlier commitments and capital investments. 
+Most business are rigged to do their own normalcy. They have over time  specialized their organization, people, processes and culture to create a normalzy that is optimized and incrementally enhanced for generating value for their customers within their niche. Their strenght lay in being rigged to do the same thing in a consisten and continiual manner. These organizations often attracts people that like the opportunities of specialization or predictability they can offer.The trade off such organization must accept is that they become less flexible, adaptable and agile as due to the inertia of their mindsets, ways of working and earlier commitments and capital investments. 
 
 > *When the world changes and becomes strange, those who were previously outside the standards of normality will have an opportunity to become successful.* 
 >

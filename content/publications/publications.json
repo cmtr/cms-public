@@ -18,7 +18,7 @@
     "images": {
       "head": {
         "type": "ref",
-        "source": "images.stockImages.unsplashed001"
+        "source": "images.stockImages.unsplashed013"
       },
       "thumbnail": {
         "type": "ref",
@@ -38,7 +38,7 @@
 		"target": "body",
     "body": "",
     "source": "publications/spa/strategic_pyramid_analysis.md",
-    "title": "Part 2: Introduction to The Strategic Pyramid",
+    "title": "Part 2: Introduction to the Strategic Pyramid",
     "subTitle": "This is the second arcticle in a series about how to perform Strateigy Pyramid Analysis.",
     "paragraph": "",
     "tags": [ "Strategy", "Management", "Analysis"],
@@ -51,7 +51,7 @@
     "images": {
       "head": {
         "type": "ref",
-        "source": "images.stockImages.unsplashed003"
+        "source": "images.stockImages.unsplashed015"
       },
       "thumbnail": {
         "type": "ref",

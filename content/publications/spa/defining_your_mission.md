@@ -135,12 +135,12 @@ Finally, including why you do what you do in your mission statement is key. This
 
 Workshop
 
-##### Step 1 - 
+##### Step 1 -
 
 ##### Step 1 - Open Brainstorming
 Open Brainstoriming
 
-##### Step 2 -  
+##### Step 2 -
 
 ![Dacing with the Stars](/assets/img/stock/javier-allegue-barros-55bVEzGVnzY-unsplash.jpg "Dancing with the Stars")
 **Image:** Dancing with the Stars

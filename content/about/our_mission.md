@@ -4,17 +4,19 @@ Our mission is _**Helping business do the unfamiliar**_.
 
 
 ### Why are we helping
-We love to learn, use our cognitive abilities in order to meet our needs to grow as people. Our motivation sits right at the top of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). And one of the best ways to achieve this is to helping others turn the different and strange into the normal and ordinary. 
+We love to learn and use our cognitive abilities in order to meet our needs to grow as people. One could say that our our motivation sits right at the top of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). We find that one of the best ways to achieve this, is by helping others turn the different and strange into the normal and ordinary. 
 
-When we say that we _**"help business do the unfamiliar"**_. We mean we want to enable our clients to do the job. We assit in analysis of the situation, identification of the problem and implementation of the solution, but we're not the ones that continuouly performing job after that. This is why we say we help our clients by joining and guiding them through their journey of turning their challanges into their new business as usual.
+When we say that we _**"help business do the unfamiliar"**_. We mean we want to enable our clients to do the job. That we assit in analysis of the situation, identification of the problem and implementation of the solution, but we're not the ones that continuouly performing job after that. This is why we say we help our clients by joining and guiding them through their journey of turning their challanges into their new business as usual.
 
-> _"When the world changes and becomes strange, those who were previously outside the standards of normality will have an opportunity to become successful."_
+> _"When the world changes and becomes strange, those who were previously outside the standards of normality will have an opportunity to become successful."
 > - **Hunter S. Thompson**
 
 ### Who are we helping
 Our target clients is business and organizations that are highly specialized, facing unfamiliar situations, or just need a outsider perspective.  
 
-We think that our clients speciality is their strength and should continiue to be so, but sometimes it comes at the cost of agility and perspective when facing unfamiliar challanges that lie outside their area of speciality.
+We think that most business are rigged to their own normalcy. They have over time specialized their organization, people, processes and culture to create a normalzy that is optimized and incrementally enhanced for generating value for their customers within their niche. I.e. their strenght lay in being rigged to do the same thing in a consisten and continiual manner. 
+
+Such organizations often attracts people that like the opportunities of specialization or predictability they can offer. The trade-off such organization often accept is that they become less flexible, adaptable and agile. This due to the inertia created by their mindsets, ways of working and earlier commitments and capital investments. 
 
 > *“The world rewards specialization, but- specialization comes at a cost. You learn more and more about less and less until you know everything about nothing.”* 
 > - **Nathan Myhrvold**, once called “the smartest man he knew” by Bill Gates

@@ -207,7 +207,106 @@
 		"tags": [ "Owl", "Wisdom", "Majestic" ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed024",
+		"src": "/assets/img/stock/kaleidico-26mjgncm0wc-unsplash.jpg",
+		"alt": "Whiteboard - Kaleidico",
+		"hover": "Whiteboard",
+		"paragraph": "",
+		"source": "unsplashed",
+		"tags": [ "Workshop", "Whiteboard", "Ideas", "Cooperation" ]	
+	},
+	{
+		"id": "unsplashed025",
+		"src": "/assets/img/stock/kaleidico-3v8xo5gbusk-unsplash.jpg",
+		"alt": "Cooperation - Kaleidico",
+		"hover": "Cooperation",
+		"paragraph": "Whiteboard Cooperation",
+		"source": "unsplashed",
+		"tags": [ "Workshop", "Whiteboard", "Ideas", "Cooperation" ]	
+	},
+	{
+		"id": "unsplashed026",
+		"src": "/assets/img/stock/jeshoots-com-fzoitus1diq-unsplash.jpg",
+		"alt": "Chess - Jeshoots",
+		"hover": "Chess",
+		"paragraph": "Making a move",
+		"source": "unsplashed",
+		"tags": [ "Chess", "Game", "Strategy", "King" ]	
+	},
+	{
+		"id": "unsplashed027",
+		"src": "/assets/img/stock/mark-konig-ecgv8s2ipg0-unsplash.jpg",
+		"alt": "Road Sign - Mark Konig",
+		"hover": "Road Sign",
+		"paragraph": "Twisty Road Ahead",
+		"source": "unsplashed",
+		"tags": [ "Sign", "Warning", "Road", "Journey" ]	
+	},
+	{
+		"id": "unsplashed028",
+		"src": "/assets/img/stock/felix-mittermeier-najil1z3elk-unsplash.jpg",
+		"alt": "Chess Pieces - Felix Mittermeier",
+		"hover": "Chess Pieces",
+		"paragraph": "Fallen King",
+		"source": "unsplashed",
+		"tags": [ "End", "Loss", "Victory", "Chess", "Black", "White" ]	
+	},
+	{
+		"id": "unsplashed029",
+		"src": "/assets/img/stock/mark-fletcher-brown-nn5l5gxkfz8-unsplash.jpg",
+		"alt": "Idea - Mark Fletcher Brown",
+		"hover": "Idea",
+		"paragraph": "What is a bright idea?",
+		"source": "unsplashed",
+		"tags": [ "Pencil", "Drawing", "Idea", "Questions" ]	
+	},
+	{
+		"id": "unsplashed030",
+		"src": "/assets/img/stock/anastasia-petrova-xu2wyjek5ai-unsplash.jpg",
+		"alt": "Directions - Anastasia Petrova",
+		"hover": "Direction",
+		"paragraph": "Direction",
+		"source": "unsplashed",
+		"tags": [ "Compass", "Nature", "Terrain" ]	
+	},
+	{
+		"id": "unsplashed031",
+		"src": "/assets/img/stock/isaac-smith-at77q0njnt0-unsplash.jpg",
+		"alt": "Predictions - Isaac Smith",
+		"hover": "Predictions",
+		"paragraph": "Pedictions",
+		"source": "unsplashed",
+		"tags": [ "Graph", "Forecast"]	
+	},
+	{
+		"id": "unsplashed032",
+		"src": "/assets/img/stock/hans-peter-gauster-3y1zf4hipcg-unsplash.jpg",
+		"alt": "Puzzel - Hans Peter Gauster",
+		"hover": "Puzzel",
+		"paragraph": "Putting the pieces together",
+		"source": "unsplashed",
+		"tags": [ "Puzzel" ]	
+	},
+	{
+		"id": "unsplashed033",
+		"src": "/assets/img/stock/dylan-gillis-kdeqa3atnby-unsplash.jpg",
+		"alt": "Meeting - Dyllan Gillis",
+		"hover": "Meeting",
+		"paragraph": "Cooperation",
+		"source": "unsplashed",
+		"tags": [ "Cooperation" ]	
+	},
+	{
+		"id": "unsplashed034",
+		"src": "/assets/img/stock/brands-people-ax8ia8gajvg-unsplash.jpgbrands-people-ax8ia8gajvg-unsplash.jpg",
+		"alt": "Workshop - Brands People",
+		"hover": "Workshop",
+		"paragraph": "Creating shares understanding",
+		"source": "unsplashed",
+		"tags": [ "Post-it", "Ideas", "Planning" ]	
+	},
+	{
+		"id": "unsplashed035",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -216,7 +315,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed036",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -225,7 +324,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed037",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -234,7 +333,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed038",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -243,7 +342,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed039",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -252,7 +351,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed040",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -261,7 +360,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed041",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -270,7 +369,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed042",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -279,7 +378,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed043",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -288,7 +387,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed044",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -297,7 +396,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed045",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -306,7 +405,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed046",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -315,7 +414,7 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed047",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -324,7 +423,16 @@
 		"tags": [ ]	
 	},
 	{
-		"id": "unsplashed02",
+		"id": "unsplashed048",
+		"src": "/assets/img/stock/",
+		"alt": "",
+		"hover": "",
+		"paragraph": "",
+		"source": "unsplashed",
+		"tags": [ ]	
+	},
+	{
+		"id": "unsplashed049",
 		"src": "/assets/img/stock/",
 		"alt": "",
 		"hover": "",
@@ -332,4 +440,5 @@
 		"source": "unsplashed",
 		"tags": [ ]	
 	}
+	
 ]

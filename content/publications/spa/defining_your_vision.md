@@ -21,6 +21,8 @@ This is "Part 3" in a series of articles aimed to give a step-by-step guide to p
 * [7 - Cost Estimate and Plan]()
 
 
+[Business Planning - Vision](https://www.business.qld.gov.au/starting-business/planning/business-planning/vision)
+
 ## What is a vision statement?
 
 ## Who shall shapes your vision?

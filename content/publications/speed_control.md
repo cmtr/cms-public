@@ -35,3 +35,4 @@ High speed with inexperience is still a bad combination.
 
  
 
+[Thinking, Fast and Slow - 	Daniel Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
