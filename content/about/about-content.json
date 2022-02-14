@@ -21,27 +21,6 @@
 		}
 	},
 	{
-		"id": "thisisus",
-		"type": "external-field",
-		"target": "body",
-		"source": "about/this_is_us.md",
-		"body": "",
-		"title": "This is Us",
-		"subTitle": "",
-		"authors": [],
-		"tags": [],
-		"images": {
-			"head": {
-				"type": "ref",
-				"source": "images.stockImages.unsplashed001"
-			}
-		},
-		"relatedArticles": {
-			"type": "ref",
-			"source": "about.aboutContentRelatedArticles"
-		}
-	},
-	{
 		"id": "whoweare",
 		"type": "external-field",
 		"target": "body",
@@ -118,27 +97,6 @@
 			"head": {
 				"type": "ref",
 				"source": "images.stockImages.unsplashed011"
-			}
-		},
-		"relatedArticles": {
-			"type": "ref",
-			"source": "about.aboutContentRelatedArticles"
-		}
-	},
-	{
-		"id": "ourstory",
-		"type": "external-field",
-		"target": "body",
-		"source": "about/our_story.md", 
-		"body": "",
-		"title": "Our Story",
-		"subTitle": "",
-		"authors": [],
-		"tags": [],
-		"images": {
-			"head": {
-				"type": "ref",
-				"source": "images.stockImages.unsplashed001"
 			}
 		},
 		"relatedArticles": {
