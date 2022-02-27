@@ -12,9 +12,11 @@ Creating a company mission also allows organizations to define what they stand f
 
 To develop the right kind of mission, business owners need to be honest with themselves and look to tangible values beyond profit. These values, or view of the world, can attract the right kind of employees and provide an organization with a framework for success.
 
-> The leader goes first. If you want a culture where people are honest and admit their failures, then you need to be the first one in.
+> _The leader goes first. If you want a culture where people are honest and admit their failures, then you need to be the first one in._
+> 
+> **Harvard Business Review** - [_A Culture of Candor_](https://hbr.org/2009/06/a-culture-of-candor) 
 
-![One More Step](/assets/img/stock/cyprien-delaporte-xe46njOok-A-unsplash.jpg "Ski Touring in Senja Island : One more step")
+![One More Step](/assets/img/stock/cyprien-delaporte-xe46njook-a-unsplash.jpg "Ski Touring in Senja Island : One more step")
 **Image:** One more step
 
 ### Part 1 - Define What You Do
@@ -68,7 +70,7 @@ It's important to note that this vote is not for elimination of ideas, but to gi
 ##### Step 5 - Reflection
 It's now time for a short reflection
 
-![Reflections of Man in Cave](/assets/img/stock/luke-leung-14BVc2mD9Bk-unsplash.jpg "Reflections of Man in Cave")
+![Reflections of Man in Cave](/assets/img/stock/luke-leung-14bvc2md9bk-unsplash.jpg "Reflections of Man in Cave")
 **Image:** Reflections of Man in Cave
 
 ### Part 2 - Define Who You Do It For
@@ -96,7 +98,7 @@ We repeate the *Open Review* from the previous phase with the new focus.
 
 It's again time for a short reflection 
 
-![Let Peace Fill Your Body](/assets/img/stock/sage-friedman-HS5CLnQbCOc-unsplash.jpg "Let Peace Fill Your Body")
+![Let Peace Fill Your Body](/assets/img/stock/sage-friedman-hs5clnqbcoc-unsplash.jpg "Let Peace Fill Your Body")
 **Image:** Let Peace Fill Your Body
 
 ### Part 3 -  Define Why You Do It
@@ -124,7 +126,7 @@ We repeate the *Prioritization* from the previous phase with the new focus.
 
 It's again time for a short reflection 
 
-![Thoughts on City Life](/assets/img/stock/christopher-sardegna-CMOa3H1SXG0-unsplash.jpg "Thoughts on City Life")
+![Thoughts on City Life](/assets/img/stock/christopher-sardegna-cmoa3h1sxg0-unsplash.jpg "Thoughts on City Life")
 **Image:** Thoughts on City Life
 
 ### Part 4 - Put it together
@@ -142,7 +144,7 @@ Open Brainstoriming
 
 ##### Step 2 -
 
-![Dacing with the Stars](/assets/img/stock/javier-allegue-barros-55bVEzGVnzY-unsplash.jpg "Dancing with the Stars")
+![Dacing with the Stars](/assets/img/stock/javier-allegue-barros-55bvezgvnzy-unsplash.jpg "Dancing with the Stars")
 **Image:** Dancing with the Stars
 
 ### Part 5 - Review, Refine, Validate & Iterate
