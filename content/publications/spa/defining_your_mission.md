@@ -129,7 +129,7 @@ Open Brainstorming
 
 ##### Step 2 -
 
-![Dacing with the Stars](/assets/img/stock/javier-allegue-barros-55bvezgvnzy-unsplash.jpg "Dancing with the Stars")
+![Dancing with the Stars](/assets/img/stock/javier-allegue-barros-55bvezgvnzy-unsplash.jpg "Dancing with the Stars")
 **Image:** Dancing with the Stars
 
 ### Part 5 - Review, Refine, Validate & Iterate
