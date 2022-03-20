@@ -31,10 +31,7 @@ A clear set of values, agreed and understood by leadership and following is ofte
 >
 > The double diamond is based on the frame innovation approach coined by Kees Dorst, Professor of Design Innovation at the University of Technology. In his approach, the design process can be divided into problem space and solution space. The **problem space** is when designers explore the problem, including its complex nature, and end with a clear definition of the problem. It is where the majority of the unique design characteristics and value lay, including creativity and uncertainty. The **second stage** is the solution space, where ideas are generated, visualized, and tested prototypes. At the end of this stage, the final product is created and delivered to the end-user. 
 >
->[The Double Diamond Method](https://www.designorate.com/the-double-diamond-design-thinking-process-and-how-to-use-it/)
->
->
->![Reverse Brainstorming](https://www.designorate.com/wp-content/uploads/2015/03/reverse-brainstorming.jpg)
+>Read more about [The Double Diamond Method](https://www.designorate.com/the-double-diamond-design-thinking-process-and-how-to-use-it/)
 
 ### Preparations
 
@@ -284,24 +281,37 @@ To help the participants reflect, the facilitator/analyst should send a copy of 
 The refinement phase reflects the *solution space* of the *double diamond process*.
 
 ##### Part 1 - Analysis
-During the workshop, the analyst have collected the artifacts/materials generated during the workshop and taken notes abuot the participants. It is now time for to analyze, reflect and find common themes and messages that reflect values the participants have generated and prioritized.
+During the workshop, the analyst have collected the artifacts/materials generated during the workshop and taken notes about the participants. It is now time for to analyze, reflect and find common themes and messages that reflect values the participants have generated and prioritized.
 
-The objective of the analysis is to apply a structured and unbiased look at the materials generated during the workshop. There is no clear process for how the analyzis is performed as it's very dependent on the context, result and analyst preference. Some may prefer to do it as a solo effort and some as part of a group excercise. The main objective is to try and look at the material generated during the workshop to create a actionable outcome. This may be finding common themes or developing a example messages or stories that reflect the values of the group. 
+The objective of the analysis is to apply a structured and unbiased look at the materials generated during the workshop. There is no one true way for how the analysis is performed as it's very dependent on the context, result and analyst preference. Some may prefer to do it as a solo effort and some as part of a group exercise. The main objective is to try and look at the material generated during the workshop to create a actionable outcome. This may be finding common themes or developing a example messages or stories that reflect the values of the group. 
 
 Depending on the requirements, the outcome may be
 
 * Just the single work values.
 * Messages or stories to convey context of the values.
-* Example behaviours in context of the company the shows them in effect.
+* Example behaviors in context of the company the shows them in effect.
 * Presentation materials to communicate it to others not part of the group.
 
 
 >**Special Notes:**
 >
->* If someone have a combined role as analyst and participant, it may be may seem benefical for the analyst that the session is recorded. This *observer effect* may however change how the participants behave during the workshop. Trusting a external analyst - i.e. outsider - with the recording may make the participants feel more secure with respect to the fear of group exclusion. The best outcome will however be when the analyst is an internal resource. 
+>* If someone have a combined role as analyst and participant, it may be may seem beneficial for the analyst that the session is recorded. This *observer effect* may however change how the participants behave during the workshop. Trusting a external analyst - i.e. outsider - with the recording may make the participants feel more secure with respect to the fear of group exclusion. The best outcome will however be when the analyst is an internal resource. 
 >* It's highly recommended to validate the outcome with the participants or decision maker during the analysis work. 
 
 ##### Part 2 - Refinement
+The refinement phase is a group activity with the objective of elaborating, validating and clarifying the outcome of the workshop and the analyst preparatory work.
+
+Refinement can take many forms, but some factors are the same. The format should be session based with a clear agenda and time box. Having a relative short session duration makes the participants focus on the important issues. The participants should have access to the work material between sessions (e.g. for asynchronous work or reflection). 
+
+Collaborative writing is one common method here. Done correctly, the work is documented as it is refined. Detailing the journey as it happens is a great way of displaying confidence to the end result as anyone can review the rationale behind the decisions made.
+
+There is two ways of collaborative writing sessions. Everybody writes or a single person writes. Both have advantages and disadvantages. 
+
+When everybody writes, people listen and talk less to each other. They may also focus on their individual little part and get excessive ownership to that part (i.e. source of conflict). The positive side is that everybody may feel they contribute and much more work is done at concurrently. 
+
+When a single person writes, everybody focus on the same item at the same time. A problem with this approach is that some people may feel they are left out (i.e. the least vocal of the group). The person directing the meeting will also have much stronger influence over the outcome. 
+
+Combining the two is also beneficial at times. The meetings will be a single person writes, but the participants have access to modify the content between meetings. 
 
 
 ##### Part 3 - Review
@@ -321,13 +331,12 @@ A different possibility is that group decision can be more challenging to achiev
 ##### Part 4 - Decide
 After the participants feel satisfied with the outcome, it is time to formally commit to them. 
 
-
-
 ### Conclusion
 
-> Some closing words here
+Defining your values seems like a easy task, but it can be a very time consuming - and this expensive - activity. The endeavors values are the foundational building blocks for it's strategy. If done honestly and lived by, it's a valuable excessive that can help cement the endeavors culture and be a real long term competitive advantage. If not, it will only be virtue posturing and risk a culture the promotes dishonesty and short term gains.  
 
-### Continiued reading
+
+### Continued reading
 The next article in this series is [Part 4: Defining Your Mission](/publication/strgpyr4).
 
 The other articles in this series:

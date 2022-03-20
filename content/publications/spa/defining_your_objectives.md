@@ -8,8 +8,11 @@ Strategic objectives are the big-picture goals for the endevour. They describe w
 
 ## Procedure
 
+The three previous activities have been high level - as we move down the pyramid, the need for details get more important. This means having workshops where the participants only use what's in their heads wont suffice.
+
 ### Perform Strategic Analysis
 
 ###
 
 [Business processes, procedures and standards](https://www.business.qld.gov.au/starting-business/planning/business-planning/processes-procedures-standards)
+

@@ -7,24 +7,6 @@
     "title": "Services",
     "paragraph": "Check our Advisory Services",
     "services": [
-      {
-        "logoClass": "bi bi-kanban",
-        "title": "Project Management",
-        "paragraph": "With unfamiliarity comes projects. Done right they can be a power change agent.",
-        "href": "#"
-      },
-      {
-        "logoClass": "bi bi-kanban",
-        "title": "Program Management",
-        "paragraph": "With unfamiliarity comes projects. Done right they can be a power change agent.",
-        "href": "#"
-      },
-      {
-        "logoClass": "bi bi-kanban",
-        "title": "Portfolio Management",
-        "paragraph": "With unfamiliarity comes projects. Done right they can be a power change agent.",
-        "href": "#"
-      },
 
       {
         "logoClass": "bi bi-heart",
@@ -32,57 +14,46 @@
         "paragraph": "Services, applications, frameworks, etc. They all have to be developed.",
         "href": "#"
       },
-      {
-        "logoClass": "bi bi-heart",
-        "title": "Product Development",
-        "paragraph": "Services, applications, frameworks, etc. They all have to be developed.",
-        "href": "#"
-      },
 
       {
-        "logoClass": "bi bi-heart",
+        "logoClass": "bi bi-lightbulb",
         "title": "UX Design",
         "paragraph": "All good services and products starts with a good design system.",
         "href": "#"
       },
-      
-      {
-        "logoClass": "bi bi-lightbulb",
-        "title": "Business Analysis & Research",
-        "paragraph": "Understanding user on their terms is the first step to idenityfing how to service their needs.",
-        "href": "#"
-      },
 
-      {
-        "logoClass": "bi bi-lightbulb",
-        "title": "User Analysis & Research",
-        "paragraph": "Understanding user on their terms is the first step to idenityfing how to service their needs.",
-        "href": "#"
-      },
-      {
-        "logoClass": "bi bi-lightbulb",
-        "title": "Market Analysis & Research",
-        "paragraph": "The ultimate product have no use if nobody knows about it. Also if it already exist.",
-        "href": "#"
-      },
-      {
-        "logoClass": "bi bi-card-checklist",
-        "title": "Facilitation",
-        "paragraph": "A guiding hand to bring the out the best of your peoples ideas, knowhow and expertise.",
-        "href": "#"
-      },
-      {
-        "logoClass": "bi bi-people",
-        "title": "Couching",
-        "paragraph": "Lean and learn from others. Bring out the best in yourself.",
-        "href": "#"
-      },
+  
       {
         "logoClass": "bi bi-life-preserver",
         "title": "Peer Review",
-        "paragraph": "\"Доверяй, но проверяй (Trust, but verify)\" - is a Russian probverd to that can be a real life saver.",
+        "paragraph": "\"Trust, but verify\" - \"Доверяй, но проверяй\" - a Russian probverd to that can save you life.",
+        "href": "#"
+      }, 
+
+      {
+        "logoClass": "bi bi-kanban",
+        "title": "Project, Program & Portfolio Management",
+        "paragraph": "With unfamiliarity comes projects. Done right they can be a power change agent.",
+        "href": "#"
+      },
+
+
+      {
+        "logoClass": "bi bi-lightbulb",
+        "title": "Business, User & Marketing\nAnalysis & Research",
+        "paragraph": "Understanding is the first step of idenityfing how to be of service.",
+        "href": "#"
+      },
+    
+
+
+      {
+        "logoClass": "bi bi-people",
+        "title": "Facilitation & Couching",
+        "paragraph": "A guiding hand to bring the out the best of your peoples ideas, knowhow and expertise.",
         "href": "#"
       }
+      
     ]
   },
   "serviceRelatedArticles": [
